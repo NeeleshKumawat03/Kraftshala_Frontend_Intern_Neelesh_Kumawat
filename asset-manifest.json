@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50fb84e9.css",
+    "main.js": "/static/js/main.58f17432.js",
+    "static/media/loading.gif": "/static/media/loading.c02463cbcf7477a7281d.gif",
+    "static/media/not-found.png": "/static/media/not-found.e1e478ea7708600b1b79.png",
+    "static/media/humidity.png": "/static/media/humidity.115f538d6c133e9f6258.png",
+    "index.html": "/index.html",
+    "main.50fb84e9.css.map": "/static/css/main.50fb84e9.css.map",
+    "main.58f17432.js.map": "/static/js/main.58f17432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50fb84e9.css",
+    "static/js/main.58f17432.js"
+  ]
+}
